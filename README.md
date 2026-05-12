@@ -1,7 +1,7 @@
 # Superstore Profit Dashboard | Power BI
 
 ## Dashboard Preview
-![Dashboard Preview](Images/dashboard-preview.png)
+![Dashboard Preview](Screenshot 2026-05-12 181316.png)
 
 ## Project Overview
 Developed an interactive Power BI dashboard using the Superstore dataset to analyze sales, profit, quantity, and regional performance.
